@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=0078FF&size=25&center=true&vCenter=true&lines=Hey,+I'm+Ravish+Kumar;Java+Full+Stack+Developer;Passionate+about;contributing+to+innovative;projects+through+coding,;debugging,+and+optimization;of+software+applications+%F0%9F%93%9A" />
 </p>
 
+---
+
+<h3 align="center">🚀 About Me</h3>
+<p>
+• 🎓 **B.Tech in Computer Science & Engineering** (Graduating 2024)  <br>
+• 💻 Passionate about **Full Stack Development, Software Engineering, and Problem-Solving**  <br>
+• 🎯 Currently focusing on **Frontend Technologies & System Design**  <br>
+• 📌 Exploring **Spring Boot, React, and Cloud Technologies**  <br>
+• 🤝 Open to **internships, projects, and collaborations!**  
+</p>
 
 ---
 <h3 align="center">💬 Contact me 💬</h3>
@@ -93,6 +103,15 @@
 
 ---
 
+<h3 align="center">📊 LeetCode Stats & Activity</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/ravish026/">
+    <img src="https://leetcode-stats.vercel.app/api?username=ravish026&theme=dark" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">📜 Certifications 📜</h3>
 
 <div align="center">
@@ -110,3 +129,4 @@
 
 </div>
 
+💡 **Let's Connect & Grow Together! 🚀**
