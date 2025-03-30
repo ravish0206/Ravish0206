@@ -25,10 +25,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="E-mail" height="30" width="40" />
   </a>
   
-<a href="tel:+919135560773" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Telephone_icon_blue_gradient.svg" alt="Phone Number" height="30" width="40" />
-  </a>
-  
+<a href="https://wa.me/919135560773" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+         alt="WhatsApp" height="50" width="50">
+</a>
+ 
 </div>
 
 ---
