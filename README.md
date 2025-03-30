@@ -3,9 +3,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=0078FF&size=25&center=true&vCenter=true&lines=Hey,+I'm+Ravish Kumar;Java Full Stack+Developer;Passionate+about;contributing to+innovative;projects through+coding,;
-debugging, and+optimization;of software+applications+%F0%9F%93%9A" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=0078FF&size=25&center=true&vCenter=true&lines=Hey,+I'm+Ravish+Kumar;Java+Full+Stack+Developer;Passionate+about;contributing+to+innovative;projects+through+coding,;debugging,+and+optimization;of+software+applications+%F0%9F%93%9A" />
 </p>
+
 
 ---
 <h3 align="center">💬 Contact me 💬</h3>
