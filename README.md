@@ -25,9 +25,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="E-mail" height="30" width="40" />
   </a>
 
-  <a href="tel:+919135560773" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Telephone_icon_blue_gradient.svg" alt="Phone Number" height="30" width="40" />
+ <p align="center">
+  <a href="tel:+919135560773">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Telephone_icon_blue_gradient.svg" alt="Phone" height="30" width="40" />
   </a>
+  <br>
+  📞 <strong>+91 91355 60773</strong>
+</p>
+
+
+
+
+
   
 </div>
 
