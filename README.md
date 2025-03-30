@@ -27,7 +27,7 @@
   
 <a href="https://wa.me/919135560773" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-         alt="WhatsApp" height="50" width="50">
+         alt="WhatsApp" height="35" width="40">
 </a>
  
 </div>
