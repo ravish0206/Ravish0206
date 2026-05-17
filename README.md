@@ -2,19 +2,22 @@
 <h3 align="center">Executive - MIS & Data Analyst at Indus Towers || Power BI · Python · SQL</h3>
 
 <!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=0078FF&size=25&center=true&vCenter=true&lines=Hey,+I'm+Ravish+Kumar;Java+Full+Stack+Developer;Passionate+about;contributing+to+innovative;projects+through+coding,;debugging,+and+optimization;of+software+applications+%F0%9F%93%9A" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&width=700&lines=Hey%2C+I'm+Ravish+Kumar,Exexutive-+MIS+%26+Data+Analyst;at+Indus+Towers.+Power+BI+%7C+Python+%7C+SQL;HR+Analytics+%26+KPI+Analysis+Turning+Data+into+Insights+📊;Passionate+about+Data-Driven+Decision+Making" alt="Typing SVG" />
+
+</div>
 
 ---
 
 <h3 align="center">🚀 About Me</h3>
 <p>
-• 🎓 **B.Tech in Computer Science & Engineering** (Graduating 2024)  <br>
-• 💻 Passionate about **Full Stack Development, Software Engineering, and Problem-Solving**  <br>
-• 🎯 Currently focusing on **Frontend Technologies & System Design**  <br>
-• 📌 Exploring **Spring Boot, React, and Cloud Technologies**  <br>
-• 🤝 Open to **internships, projects, and collaborations!**  
+• 🎓 Pursuing <b>MBA in HRM & Analytics & Data Science</b> from Manipal University Jaipur  <br>
+• 💼 Currently working as <b>Executive - MIS & Data Analyst at Indus Towers</b>  <br>
+• 📊 Skilled in <b>Power BI, Python, SQL, Advanced Excel, HR Analytics & KPI Reporting</b>  <br>
+• 📈 Experienced in <b>MIS Reporting, Dashboard Creation, Data Cleaning, Trend Analysis & Workforce Analytics</b>  <br>
+• 🚀 Passionate about <b>Data Analytics, Business Intelligence, and Data-Driven Decision Making</b>  <br>
+• 🤝 Open to <b>Data Analyst, MIS Analyst, and Business Analytics opportunities & collaborations</b>  
 </p>
 
 ---
