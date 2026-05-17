@@ -108,11 +108,15 @@
 ---
 
 <h3 align="center">📊 LeetCode Stats & Activity</h3>
-<p align="center">
-  <a href="https://leetcode.com/u/ravish026/">
-    <img src="https://leetcode-stats.vercel.app/api?username=ravish026&theme=dark" alt="LeetCode Stats" />
+
+<div align="center">
+  <a href="https://leetcode.com/u/ravish026/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/ravish026?theme=dark&font=Roboto&ext=contest" 
+      alt="Ravish Kumar LeetCode Stats" 
+    />
   </a>
-</p>
+</div>
 
 ---
 
