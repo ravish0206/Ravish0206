@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋, I'm  Ravish Kumar ✨</h1>
-<h3 align="center">B.Tech in Computer Science & Engineering || Java Full Stack Developer || Software Engineer </h3>
+<h3 align="center">Executive - MIS & Data Analyst at Indus Towers || Power BI · Python · SQL</h3>
 
 <!-- Typing animation -->
 <p align="center">
