@@ -21,6 +21,57 @@
 </p>
 
 ---
+
+<h3 align="center">💼 Work Experience</h3>
+
+<div align="center">
+
+### 🏢 Executive - MIS & Data Analyst | Indus Towers
+📍 Gurugram, India | Sept 2025 – Present
+
+✔️ Automated daily & weekly MIS reports for operational monitoring  
+✔️ Analyzed telecom network KPIs using Excel & Power BI  
+✔️ Created dashboards and performance reports for management insights  
+✔️ Performed data cleaning, validation & trend analysis  
+✔️ Generated actionable insights to improve operational efficiency  
+✔️ Collaborated with cross-functional teams for data-driven reporting  
+
+</div>
+
+---
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
+
+| Project | Technologies | Highlights |
+|----------|--------------|-------------|
+| **HR Attrition Analytics Dashboard** | Python, Excel | Analyzed 100K employee records & identified attrition trends |
+| **HR Analytics Dashboard** | Power BI, Excel | Built interactive dashboard with attrition KPIs & workforce insights |
+| **Payroll Management System** | Java, JDBC, MySQL | Automated payroll operations & employee management |
+| **KisanMitra App** | Java, MySQL | Farmer-to-customer mediator platform for transparent transactions |
+
+</div>
+
+---
+
+<h3 align="center">📈 Analytics & Data Skills</h3>
+
+<div align="center">
+
+🔹 MIS Reporting  
+🔹 KPI Analysis  
+🔹 Workforce Analytics  
+🔹 HR Analytics  
+🔹 Dashboard Development  
+🔹 Data Cleaning & Transformation  
+🔹 Exploratory Data Analysis (EDA)  
+🔹 Trend Analysis & Reporting  
+🔹 Business Intelligence  
+
+</div>
+
+---
+
 <h3 align="center">💬 Contact me 💬</h3>
 <div align="center">
 
